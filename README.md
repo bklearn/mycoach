@@ -1,2 +1,3 @@
-# mycoach
-My Coach App
+# my_coach
+
+A new Flutter project.
